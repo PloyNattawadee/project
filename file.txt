@@ -1,0 +1,230 @@
+{
+  "result": {
+    "credit_cost": 1,
+    "credits_monthly_total": 2000,
+    "credits_monthly_used": 3,
+    "data_type": "alpr_results",
+    "epoch_time": 1552028739620,
+    "error": false,
+    "img_height": 104,
+    "img_width": 223,
+    "processing_time": {
+      "plates": 71.0697250366211,
+      "total": 73.23900000028516
+    },
+    "regions_of_interest": [
+      {
+        "height": 104,
+        "width": 223,
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "results": [
+      {
+        "candidates": [
+          {
+            "confidence": 94.6153564453125,
+            "matches_template": 0,
+            "plate": "วข2273"
+          },
+          {
+            "confidence": 79.30647277832031,
+            "matches_template": 0,
+            "plate": "วข227"
+          },
+          {
+            "confidence": 79.13892364501953,
+            "matches_template": 0,
+            "plate": "ข2273"
+          },
+          {
+            "confidence": 78.97490692138672,
+            "matches_template": 0,
+            "plate": "วข273"
+          },
+          {
+            "confidence": 78.87879943847656,
+            "matches_template": 0,
+            "plate": "วข2272"
+          },
+          {
+            "confidence": 78.85092163085938,
+            "matches_template": 0,
+            "plate": "วข2277"
+          },
+          {
+            "confidence": 78.84791564941406,
+            "matches_template": 0,
+            "plate": "วข2274"
+          },
+          {
+            "confidence": 78.81082153320312,
+            "matches_template": 0,
+            "plate": "ภข2273"
+          },
+          {
+            "confidence": 78.81057739257812,
+            "matches_template": 0,
+            "plate": "กข2273"
+          },
+          {
+            "confidence": 63.83004379272461,
+            "matches_template": 0,
+            "plate": "ข227"
+          }
+        ],
+        "confidence": 94.6153564453125,
+        "coordinates": [
+          {
+            "x": 49,
+            "y": 14
+          },
+          {
+            "x": 218,
+            "y": 14
+          },
+          {
+            "x": 221,
+            "y": 81
+          },
+          {
+            "x": 52,
+            "y": 81
+          }
+        ],
+        "matches_template": 0,
+        "plate": "วข2273",
+        "plate_index": 0,
+        "processing_time_ms": 37.092254638671875,
+        "region": "th-10",
+        "region_confidence": 99,
+        "requested_topn": 10,
+        "vehicle_region": {
+          "height": 103,
+          "width": 103,
+          "x": 60,
+          "y": 0
+        }
+      }
+    ],
+    "uuid": "",
+    "version": 2
+  }
+}
+{'files': 'C:\\Users\\Nattawadee\\Desktop\\web_security\\image\\img12.jpg'}
+<Response [200]>
+{
+  "result": {
+    "credit_cost": 1,
+    "credits_monthly_total": 2000,
+    "credits_monthly_used": 4,
+    "data_type": "alpr_results",
+    "epoch_time": 1552028742309,
+    "error": false,
+    "img_height": 104,
+    "img_width": 223,
+    "processing_time": {
+      "plates": 70.69807434082031,
+      "total": 115.46799999996438
+    },
+    "regions_of_interest": [
+      {
+        "height": 104,
+        "width": 223,
+        "x": 0,
+        "y": 0
+      }
+    ],
+    "results": [
+      {
+        "candidates": [
+          {
+            "confidence": 94.6153564453125,
+            "matches_template": 0,
+            "plate": "วข2273"
+          },
+          {
+            "confidence": 79.30647277832031,
+            "matches_template": 0,
+            "plate": "วข227"
+          },
+          {
+            "confidence": 79.13892364501953,
+            "matches_template": 0,
+            "plate": "ข2273"
+          },
+          {
+            "confidence": 78.97490692138672,
+            "matches_template": 0,
+            "plate": "วข273"
+          },
+          {
+            "confidence": 78.87879943847656,
+            "matches_template": 0,
+            "plate": "วข2272"
+          },
+          {
+            "confidence": 78.85092163085938,
+            "matches_template": 0,
+            "plate": "วข2277"
+          },
+          {
+            "confidence": 78.84791564941406,
+            "matches_template": 0,
+            "plate": "วข2274"
+          },
+          {
+            "confidence": 78.81082153320312,
+            "matches_template": 0,
+            "plate": "ภข2273"
+          },
+          {
+            "confidence": 78.81057739257812,
+            "matches_template": 0,
+            "plate": "กข2273"
+          },
+          {
+            "confidence": 63.83004379272461,
+            "matches_template": 0,
+            "plate": "ข227"
+          }
+        ],
+        "confidence": 94.6153564453125,
+        "coordinates": [
+          {
+            "x": 49,
+            "y": 14
+          },
+          {
+            "x": 218,
+            "y": 14
+          },
+          {
+            "x": 221,
+            "y": 81
+          },
+          {
+            "x": 52,
+            "y": 81
+          }
+        ],
+        "matches_template": 0,
+        "plate": "วข2273",
+        "plate_index": 0,
+        "processing_time_ms": 36.60404968261719,
+        "region": "th-10",
+        "region_confidence": 99,
+        "requested_topn": 10,
+        "vehicle_region": {
+          "height": 103,
+          "width": 103,
+          "x": 60,
+          "y": 0
+        }
+      }
+    ],
+    "uuid": "",
+    "version": 2
+  }
+}
